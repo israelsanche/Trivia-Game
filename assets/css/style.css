@@ -1,0 +1,43 @@
+.box {
+    background-color: #10cc09;
+    width: 80vw;
+    height: 50vw;
+    padding: 10px;
+    border: 5px solid gray;
+    border-bottom: 10px solid gray;
+    text-align: center;
+    margin: 8%;
+    margin-top: 3%;
+}
+
+body {
+    background-color: rgb(3, 63, 8); 
+}
+.inner-box {
+    background-color: #10cc09;
+    width: 70vw;
+    height: 40vw;
+    padding: 10px;
+    border: 5px solid gray;
+    border-bottom: 10px solid gray;
+    text-align: center;
+    /* margin: 5%; */
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+#lorem {
+    align-content: stretch
+}
+
+.choicesbox {
+    background-color: #10cc09;
+    width: 60vw;
+    height: 30vw;
+    /* padding: 10px; */
+    /* border: 5px solid gray; */
+    /* border-bottom: 10px solid gray; */
+    text-align: center;
+    margin: 5%;
+
+}
